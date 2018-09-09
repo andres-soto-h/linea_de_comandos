@@ -1,0 +1,10 @@
+RoR->¿Cuál es el nombre del framework de desarrollo web mas popular para el lenguaje Ruby (3 Letras)?
+sun microsystems->¿Cúal era el nombre de la compañia que creó el lenguaje de programación Java?
+international business machines->¿Qué significan las siglas IBM?
+azure->¿Cuál es el nombre de la plataforma de nube de Microsoft?
+si->¿Es cierto que Apple Inc usa la nube de Google para el almacenamiento de iCloud (Si-No)?
+has_key?->Método para saber si existe una llave en un hash
+ES6->especificación de lenguaje de programación javascript publicada en 2015 (3 Letras)
+CSS3->Tecnología usada para dar estilos a sitios web escritos en HTML (Tercera Versión)
+jquery->Popular librería de javascript usada para acceder al DOM
+git->Software de control de versiones diseñado por Linus Torvalds
